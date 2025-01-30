@@ -3,6 +3,8 @@
   TRACE: Task-related Reinforced Automated Code Engine 🧑‍💻
 </h1>
 
+![image](https://github.com/user-attachments/assets/df699055-c536-4519-9130-463eaee43364)
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 </div>  
@@ -46,7 +48,7 @@ cd TRACE
 ### Proceed with running the cells in the following notebooks (can be run independently)
 - BaseCode.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VirajShah30/TRACE/blob/main/BaseCode.ipynb)
 - TaskDecompositionADaPT.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VirajShah30/TRACE/blob/main/TaskDecompositionADaPT.ipynb)
-- KnowledgeDistilation.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VirajShah30/TRACE/blob/main/KnowledgeDistilation.ipynb)
+- KnowledgeDistillation.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VirajShah30/TRACE/blob/main/KnowledgeDistillation.ipynb)
 - EdgeTestCaseCode.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VirajShah30/TRACE/blob/main/EdgeTestCaseCode.ipynb)
 
 ## <div align="center">Results 📊</div>
